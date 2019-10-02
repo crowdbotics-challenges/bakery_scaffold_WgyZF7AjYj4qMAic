@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%209fc232ce888f86f73d6c4f5637379f4e69bf8c09-yellow.svg)](https://github.com/crowdbotics-challenges/bakery_scaffold_WgyZF7AjYj4qMAic/commit/9fc232ce888f86f73d6c4f5637379f4e69bf8c09)
+[![Status](https://img.shields.io/badge/status-SUBMITTABLE%20COMMIT:%209fc232ce888f86f73d6c4f5637379f4e69bf8c09-brightgreen.svg)](https://github.com/crowdbotics-challenges/bakery_scaffold_WgyZF7AjYj4qMAic/commit/9fc232ce888f86f73d6c4f5637379f4e69bf8c09)
+
 
 
 # Status1
